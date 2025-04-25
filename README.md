@@ -1,8 +1,4 @@
-# Hi, I'm Jake 👋
-
-- 🔒 Cybersecurity Analyst (Red Team / Blue Team)
-- 🛠 Python, Rust, C++
+# Jake Otte [2ptr]
+- 🔒 Cybersecurity Analyst (Red Team)
+- 🛠 Python, Rust, C, Win32 API
 - 📜 OSCP | CRTO | CRTP Certified
-- 🌎 Building better defenses with Wazuh and Sysmon
-
-Let's connect!
