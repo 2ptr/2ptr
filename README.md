@@ -1,5 +1,5 @@
-# Jake Otte [2ptr]
-- 🔒 Cybersecurity Analyst (Red Team / Blue Team)
+# Jake Otte
+- 🔒 Cybersecurity, Cloud, and Networking
 - 🛠 Python, Rust, C, Win32 API
-- 📜 OSCP | CRTO | CRTP Certified
+- 📜 OSCP | CRTO | CRTP | Network+ | Security+
 - 🖥️ Obsessed with Windows internals
